@@ -183,7 +183,7 @@ int main(void) {
     init_dt(&dt);
     int display_time = 0;
     int is_military_time = 0; // 0 for AM/PM, 1 for military time
-
+    print_dt(&dt, is_military_time);
 
     while (1) {
         int key = get_key();
