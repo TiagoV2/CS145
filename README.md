@@ -77,3 +77,7 @@ This project is a combination lock system using the ATmega32 microcontroller. It
 The combination lock system provides visual and audio feedback for user interactions. It ensures secure access by locking out after repeated failed attempts and allows users to manage passwords through the keypad interface.
 
 ---
+
+**Important Note:** We do not encourage or participate in any other students using the code in this repository for their coursework. This code is provided for educational purposes only and should not be used for academic dishonesty.
+
+Thanks!
