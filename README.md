@@ -1,6 +1,6 @@
 # Embedded Systems Projects
 
-All projects in this repository were developed by Santiago Palomares and Ben Boben for the UCI CS145 Embedded Systems class.
+All projects in this repository were developed by Santiago Palomares and Ben Boben for the UCI Embedded Systems class.
 
 ## Project 1: LED Blink Pattern Controller
 
